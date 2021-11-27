@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mazhuang/Desktop/my_file/C_Programming/first_work/hello.c
+hello.h
+/home/mazhuang/Desktop/my_file/C_Programming/first_work/hello.h
+stdio.h
+-
+
+/home/mazhuang/Desktop/my_file/C_Programming/first_work/hello.h
+
+/home/mazhuang/Desktop/my_file/C_Programming/first_work/main.c
+hello.h
+/home/mazhuang/Desktop/my_file/C_Programming/first_work/hello.h
+

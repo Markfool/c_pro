@@ -1,0 +1,3 @@
+/home/mazhuang/Desktop/my_file/C_Programming/first_work/build/CMakeFiles/rebuild_cache.dir
+/home/mazhuang/Desktop/my_file/C_Programming/first_work/build/CMakeFiles/edit_cache.dir
+/home/mazhuang/Desktop/my_file/C_Programming/first_work/build/CMakeFiles/first_work.dir

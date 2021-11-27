@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/first_work.dir/hello.c.o -o first_work 

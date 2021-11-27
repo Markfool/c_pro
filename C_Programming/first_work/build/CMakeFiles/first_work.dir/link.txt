@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/first_work.dir/hello.c.o CMakeFiles/first_work.dir/main.c.o -o first_work 

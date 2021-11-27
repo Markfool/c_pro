@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mazhuang/Desktop/my_file/C_Programming/second/src/alloc.h
+stdlib.h
+-
+
+/home/mazhuang/Desktop/my_file/C_Programming/second/src/ast.c
+ast.h
+/home/mazhuang/Desktop/my_file/C_Programming/second/src/ast.h
+alloc.h
+/home/mazhuang/Desktop/my_file/C_Programming/second/src/alloc.h
+stdio.h
+-
+string.h
+-
+unistd.h
+-
+sys/wait.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+fcntl.h
+-
+
+/home/mazhuang/Desktop/my_file/C_Programming/second/src/ast.h
+
